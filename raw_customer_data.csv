@@ -1,0 +1,101 @@
+customer_id,name,age,gender,country,purchase_amount,join_date
+1038.00,Eve,55.00,female,United Kingdom,171.63,04-08-2023
+1082.00,Eve,37.00,male ,France,154.31,07-08-2024
+1082.00,Eve,19.00,male,United Kingdom,unknown,23-05-2024
+1033.00,David,18.00,male,India,166.00,27-11-2022
+1049.00,Grace,unknown,female,India,unknown,05-10-2025
+1046.00,Hannah,unknown,male ,United States,467.50,10-08-2022
+1091.00,Alice,18.00,female,United Kingdom,123.19,19-12-2022
+1084.00,Hannah,unknown,male,United States,268.94,30-06-2023
+1041.00,David,unknown,female,United States,128.37,11-28-2024
+1092.00,Grace,44.00,male,United Kingdom,32.22,24-10-2022
+1065.00,Alice,31.00,male ,France,447.41,23-10-2022
+1050.00,Eve,unknown,male,Germany,474.82,12-12-2024
+1042.00,Frank,unknown,female,Germany,61.98,18-06-2022
+1012.00,Grace,unknown,female,United States,90.63,01-10-2022
+1063.00,Charlie,47.00,male ,India,261.21,08-04-2022
+1016.00,Eve,58.00,female,Germany,unknown,24-02-2023
+1022.00,Ivy,unknown,female,United States,242.46,29-11-2024
+1007.00,Hannah,unknown,male,India,213.98,05-30-2022
+1043.00,Bob,unknown,male ,Germany,unknown,11-29-2023
+1018.00,Eve,unknown,male ,France,36.20,28-03-2025
+1015.00,David,25.00,female,India,198.02,12-05-2025
+1070.00,Ivy,unknown,female,Germany,433.03,23-10-2023
+1071.00,Eve,unknown,female,India,32.13,06-05-2025
+1083.00,Alice,unknown,male ,Germany,433.04,28-12-2024
+1014.00,David,52.00,male,Germany,367.44,06-08-2023
+1027.00,Grace,49.00,male,India,83.70,23-11-2022
+1070.00,Grace,unknown,female,France,44.50,06-25-2023
+1090.00,Ivy,39.00,female,Germany,127.67,06-03-2024
+1087.00,Frank,unknown,male,France,28.19,07-04-2023
+1043.00,Eve,45.00,male,United States,81.31,06-12-2022
+1010.00,Jack,unknown,female,France,74.34,13-10-2022
+1076.00,Frank,54.00,female,United Kingdom,unknown,04-03-2023
+1011.00,Charlie,52.00,male,United States,unknown,05-11-2022
+1036.00,Hannah,29.00,male ,France,236.66,16-04-2022
+1078.00,Grace,unknown,male,Germany,273.87,08-24-2022
+1056.00,Jack,33.00,male,Germany,142.86,08-13-2025
+1074.00,Charlie,unknown,male,United States,406.27,08-09-2022
+1016.00,Grace,unknown,female,India,391.08,09-10-2021
+1038.00,David,29.00,male,United States,222.99,18-11-2024
+1010.00,Charlie,57.00,female,India,369.69,29-01-2025
+1073.00,Jack,22.00,male,Germany,58.90,02-04-2025
+1058.00,Grace,58.00,female,Germany,76.37,08-07-2023
+1044.00,David,unknown,female,India,23.42,11-10-2024
+1013.00,Frank,unknown,female,United States,239.91,30-01-2023
+1008.00,Charlie,unknown,female,United States,455.49,31-03-2023
+1047.00,Frank,unknown,male ,India,438.73,31-08-2025
+1019.00,Alice,41.00,male,Germany,387.86,17-12-2021
+1027.00,Alice,unknown,male ,France,unknown,11-20-2024
+1040.00,Frank,unknown,male,Germany,37.62,12-10-2021
+1004.00,Grace,31.00,female,France,440.30,19-11-2024
+1032.00,David,44.00,female,United States,413.48,25-01-2024
+1061.00,Frank,unknown,male ,India,unknown,01-15-2024
+1029.00,Eve,unknown,male,India,93.00,12-10-2023
+1082.00,Hannah,unknown,male ,India,unknown,15-06-2024
+1098.00,Frank,54.00,male,India,498.67,24-04-2025
+1026.00,Eve,18.00,male ,Germany,167.69,06-06-2025
+1089.00,Frank,37.00,male,France,265.63,08-06-2022
+1024.00,Hannah,32.00,male,India,425.89,23-01-2024
+1034.00,Ivy,28.00,female,India,350.82,27-05-2025
+1057.00,David,47.00,male ,Germany,133.19,29-01-2024
+1071.00,Alice,21.00,male,India,483.62,03-10-2024
+1035.00,Eve,22.00,female,India,225.74,07-12-2022
+1002.00,Eve,unknown,female,India,381.23,11-06-2025
+1021.00,Eve,25.00,female,United States,201.81,04-03-2024
+1019.00,Hannah,unknown,male,United States,unknown,04-09-2025
+1006.00,Hannah,unknown,female,India,370.81,30-12-2024
+1090.00,Hannah,53.00,female,United Kingdom,455.76,02-06-2025
+1077.00,Charlie,34.00,male ,India,61.64,12-03-2023
+1032.00,Frank,unknown,male,India,84.33,21-01-2023
+1099.00,Charlie,unknown,male,India,50.26,22-08-2022
+1061.00,Alice,58.00,male,United States,46.79,20-08-2022
+1056.00,Ivy,36.00,female,United Kingdom,unknown,09-09-2023
+1070.00,Eve,unknown,female,France,63.79,07-28-2022
+1040.00,Eve,57.00,male,France,454.46,10-25-2021
+1006.00,Grace,31.00,female,India,unknown,03-01-2024
+1013.00,Eve,51.00,female,India,353.47,17-09-2023
+1097.00,Hannah,23.00,female,France,54.29,10-31-2022
+1066.00,Jack,55.00,male,United Kingdom,319.67,06-07-2023
+1018.00,Charlie,unknown,female,United Kingdom,440.38,02-14-2023
+1074.00,Hannah,unknown,male,France,151.18,03-04-2023
+1048.00,Frank,46.00,male,India,472.46,10-01-2021
+1056.00,David,unknown,male,Germany,424.28,15-12-2024
+1038.00,Ivy,30.00,female,India,142.12,14-01-2025
+1065.00,Charlie,unknown,male,France,303.30,20-05-2022
+1014.00,Jack,29.00,male ,United States,125.64,27-07-2024
+1071.00,Jack,56.00,female,India,331.05,19-06-2024
+1066.00,Grace,unknown,female,United Kingdom,498.51,08-09-2023
+1003.00,Ivy,unknown,male,United Kingdom,unknown,26-05-2022
+1016.00,David,unknown,female,United Kingdom,387.65,09-16-2025
+1050.00,Alice,27.00,female,India,110.47,29-11-2022
+1021.00,Bob,unknown,female,India,414.34,11-16-2024
+1011.00,Jack,56.00,female,India,419.98,17-07-2023
+1011.00,Alice,unknown,female,United States,345.61,13-11-2021
+1074.00,Alice,unknown,male,Germany,115.74,29-09-2025
+1078.00,Jack,40.00,female,France,254.05,09-15-2025
+1065.00,Eve,unknown,female,France,206.79,10-06-2023
+1031.00,Hannah,53.00,male,India,unknown,26-02-2025
+1007.00,Frank,unknown,male,Germany,197.17,10-05-2025
+1097.00,Bob,unknown,male,India,130.96,12-19-2024
+1011.00,Hannah,26.00,female,United Kingdom,109.30,09-20-2025
